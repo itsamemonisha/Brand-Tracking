@@ -1,6 +1,8 @@
+## Brand Tracking
+
 Brand tracking is essential to a business because the information obtained from the process can be used in making business decisions involving marketing such as strategic advertising campaigns, they also help facilitate product development. Additionally, monitoring conversations helps businesses understand what is lacking with their customer support which can then be improved. It can also provide insights on possible competitors, major influencers, and understand their target market. Overall, it can help the business optimize their social media presence. The goal is to analyze how people feel about a brand, the key topics customers are talking about with regards to that brand, as well as get some insight into the demographics and overall engagement of people with the brand.
 
-# Data 
+## Data 
 We are collecting the data from twitter on a weekly basis for the month of February. February can be a valuable month for businesses to advertise deals and discounts, as well as release new products on account of the major events such as Super Bowl (12th Feb), Valentine’s Day (14th Feb.) and Mardi Gras (21st Feb.). This data is being pulled using the python package ‘tweepy’ and a standard twitter API. The tweets will be analyzed for 2 similar companies who belong to 3 distinct business categories, namely:
 
 Starbucks/Dunkin's [Food industry]
@@ -38,7 +40,7 @@ A few queries performed on the data once passing through the necessary ETL pipel
 
 
 
-# Results
+## Results
 1. Sentiment analysis: A majority of the tweets overall were seen to be positive or neutral. This suggests that customers generally have positive or neutral experiences with the brands being analyzed. This information can be helpful for businesses to identify areas of improvement in their customer experience and also to focus on maintaining positive interactions with their customers
 
 2. Engagement rates: Streaming industries received the highest engagement rates, followed by coffeehouses, and airlines received the lowest engagement rates. This information can help businesses to identify which industries have higher engagement rates and develop strategies to increase engagement on their social media platforms.
